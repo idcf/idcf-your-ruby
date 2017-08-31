@@ -1,6 +1,8 @@
 # Idcf::Your
 [![Code Climate](https://codeclimate.com/github/idcf/idcf-your-ruby/badges/gpa.svg)](https://codeclimate.com/github/idcf/idcf-your-ruby)
 [![Issue Count](https://codeclimate.com/github/idcf/idcf-your-ruby/badges/issue_count.svg)](https://codeclimate.com/github/idcf/idcf-your-ruby)
+[![Test Coverage](https://codeclimate.com/github/idcf/idcf-your-ruby/badges/coverage.svg)](https://codeclimate.com/github/idcf/idcf-your-ruby/coverage)
+[![Build Status](https://travis-ci.org/idcf/idcf-your-ruby.svg?branch=master)](https://travis-ci.org/idcf/idcf-your-ruby)
 
 A Ruby client for [IDCF Cloud Your API](http://docs.idcf.jp/cloud/billing/)
 
