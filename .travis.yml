@@ -4,7 +4,6 @@ env:
     - CC_TEST_REPORTER_ID=ed17dad515f8c4f28246a10d13ea6eecd6e5012e6b98a106cbdb300629988c3f
 language: ruby
 rvm:
-  - 1.9.3
   - 2.1.10
   - 2.2.7
   - 2.3.4

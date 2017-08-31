@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Dependencies
 
-* Ruby 1.9.3 or higher
+* Ruby 2.1.10 or higher
 
 ## Usage
 ### Basic usage

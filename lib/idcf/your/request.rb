@@ -30,7 +30,7 @@ module Idcf
       private
 
       def req_headers
-        ua = { 'User-Agent': "IDCF Your API Client v#{VERSION}" }
+        ua = { 'User-Agent' => "IDCF Your API Client v#{VERSION}" }
         ua.merge(headers)
       end
 
