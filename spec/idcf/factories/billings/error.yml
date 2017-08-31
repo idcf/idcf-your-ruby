@@ -1,0 +1,12 @@
+---
+status: 401
+header:
+  date: "Wed, 19 Jul 2017 07:48:23 GMT"
+  x-frame-options: "SAMEORIGIN"
+  cache-control: "no-cache"
+  vary: "Accept-Encoding"
+  content-type: "application/json"
+
+---
+message: "invalid date format(YYYY-MM)"
+reference: "http://docs.idcf.jp/cloud/billing"

@@ -1,0 +1,26 @@
+---
+status: 200
+header:
+  date: "Wed, 19 Jul 2017 07:48:23 GMT"
+  x-frame-options: "SAMEORIGIN"
+  cache-control: "no-cache"
+  vary: "Accept-Encoding"
+  content-type: "application/json"
+  x-idcf-limit-max: "100"
+  x-idcf-limit-remaining: "99"
+  x-idcf-limit-reset: 10"
+
+---
+meta:
+  account_id: '71000000000'
+  updated_at: '2017-07-20T02:12:51+09:00'
+data:
+- month: 2017-07
+  billing_amount: 100
+  payment_status: 1
+- month: 2017-06
+  billing_amount: 200
+  payment_status: 3
+- month: 2017-05
+  billing_amount: 300
+  payment_status: 3

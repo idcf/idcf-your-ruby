@@ -1,0 +1,608 @@
+---
+status: 200
+header:
+  date: "Wed, 19 Jul 2017 07:48:23 GMT"
+  x-frame-options: "SAMEORIGIN"
+  cache-control: "no-cache"
+  vary: "Accept-Encoding"
+  content-type: "application/json"
+  x-idcf-limit-max: "100"
+  x-idcf-limit-remaining: "99"
+  x-idcf-limit-reset: 10"
+
+---
+meta:
+  account_id: '71000000000'
+  taxable_amount: 2791
+  tax: 215
+  total: 0
+  updated_at: '2017-07-19T02:12:30+09:00'
+  billing_period_start_at: '2017-07-01'
+  billing_period_end_at: '2017-07-18'
+  invoice_no:
+data:
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: VirtualMachine
+  Menu: light.S1
+  ResourceDisplayName: step01
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 414.9122209549
+  Allocated: 415.00666666031
+  Running: 414.9122209549
+  Stopped: 0.094445705413818
+  Amount: 165
+  Tax: 13
+  Net: 178
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: VirtualMachine
+  Menu: light.S1
+  ResourceDisplayName: test
+  StartDate: '2017-07-05'
+  EndDate: '2017-07-05'
+  Usage: 0.20222249627113
+  Allocated: 0.23694472014904
+  Running: 0.20222249627113
+  Stopped: 0.034722223877907
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: VirtualMachine
+  Menu: light.S1
+  ResourceDisplayName: VM-6cfbf5b5-e7e1-44d8-aa5d-c3d8246d3c80
+  StartDate: '2017-07-06'
+  EndDate: '2017-07-14'
+  Usage: 0.26277834177017
+  Allocated: 184.31944513321
+  Running: 0.26277834177017
+  Stopped: 184.05666679144
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: VirtualMachine
+  Menu: light.S1
+  ResourceDisplayName: VM-73e1df36-a9a3-4519-b40e-4679bf03e87b
+  StartDate: '2017-07-06'
+  EndDate: '2017-07-14'
+  Usage: 184.09611105919
+  Allocated: 184.18222308159
+  Running: 184.09611105919
+  Stopped: 0.086112022399902
+  Amount: 73
+  Tax: 5
+  Net: 78
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: newton
+  Category: VirtualMachine
+  Menu: light.S1
+  ResourceDisplayName: step
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-03'
+  Usage: 68.970554351807
+  Allocated: 68.971111297607
+  Running: 68.970554351807
+  Stopped: 0.00055694580078125
+  Amount: 27
+  Tax: 2
+  Net: 29
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Internet Data Transfer
+  Menu: Internet Data Transfer [out]
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 0.2
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Internet Data Transfer
+  Menu: Internet Data Transfer [in]
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 3.34
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: newton
+  Category: Internet Data Transfer
+  Menu: Internet Data Transfer [out]
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-05'
+  Usage: 0.07
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: newton
+  Category: Internet Data Transfer
+  Menu: Internet Data Transfer [in]
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-05'
+  Usage: 0.13
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Volume
+  Menu: Volume - Root Disk
+  ResourceDisplayName: ROOT-215107
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 2075.0332
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 83
+  Tax: 6
+  Net: 89
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Volume
+  Menu: Volume - Root Disk
+  ResourceDisplayName: ROOT-215733
+  StartDate: '2017-07-05'
+  EndDate: '2017-07-05'
+  Usage: 3.5542
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Volume
+  Menu: Volume - Root Disk
+  ResourceDisplayName: ROOT-215920
+  StartDate: '2017-07-06'
+  EndDate: '2017-07-14'
+  Usage: 2764.7917
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 110
+  Tax: 8
+  Net: 118
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Volume
+  Menu: Volume - Root Disk
+  ResourceDisplayName: ROOT-215921
+  StartDate: '2017-07-06'
+  EndDate: '2017-07-14'
+  Usage: 2762.7334
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 110
+  Tax: 8
+  Net: 118
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: newton
+  Category: Volume
+  Menu: Volume - Root Disk
+  ResourceDisplayName: ROOT-170263
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-03'
+  Usage: 344.8556
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 13
+  Tax: 1
+  Net: 14
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Archived Data
+  Menu: Archive Storage - Snapshot Data Usage
+  ResourceDisplayName: step01_ROOT-215107_20170714041416
+  StartDate: '2017-07-14'
+  EndDate: '2017-07-14'
+  Usage: 11.9556
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Archived Data
+  Menu: Archive Storage - Template Data Usage
+  ResourceDisplayName: VyOS-1.1.7
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 99.36
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 5
+  Tax: 0
+  Net: 5
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Archived Data
+  Menu: Archive Storage - Template Data Usage
+  ResourceDisplayName: test1
+  StartDate: '2017-07-14'
+  EndDate: '2017-07-14'
+  Usage: 0.5655
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Archived Data
+  Menu: Archive Storage - ISO Data Usage
+  ResourceDisplayName: Fedora25
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-02'
+  Usage: 6.4304
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Archived Data
+  Menu: Archive Storage - ISO Data Usage
+  ResourceDisplayName: test1
+  StartDate: '2017-07-14'
+  EndDate: '2017-07-14'
+  Usage: 0.0571
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Cloud Computing
+  ZoneName: pascal
+  Category: Archived Data
+  Menu: Archive Storage - ISO Data Usage
+  ResourceDisplayName: test1
+  StartDate: '2017-07-14'
+  EndDate: '2017-07-14'
+  Usage: 0.0422
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Object Storage
+  ZoneName: jp-east
+  Category: Object Storage
+  Menu: Object Storage - Storage Usage
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 1
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east
+  ServiceName: Object Storage
+  ZoneName: jp-east
+  Category: Object Storage
+  Menu: Object Storage - Traffic Usage
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 0
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east-2
+  ServiceName: Cloud Computing
+  ZoneName: weber
+  Category: VirtualMachine
+  Menu: light.S1
+  ResourceDisplayName: obs
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 432
+  Allocated: 432
+  Running: 432
+  Stopped: 0
+  Amount: 172
+  Tax: 13
+  Net: 185
+- Region: jp-east-2
+  ServiceName: Cloud Computing
+  ZoneName: weber
+  Category: Internet Data Transfer
+  Menu: Internet Data Transfer [out]
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 0.4
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east-2
+  ServiceName: Cloud Computing
+  ZoneName: weber
+  Category: Internet Data Transfer
+  Menu: Internet Data Transfer [in]
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 3.62
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-east-2
+  ServiceName: Cloud Computing
+  ZoneName: weber
+  Category: Volume
+  Menu: Volume - Root Disk
+  ResourceDisplayName: ROOT-2388
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 4320
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 172
+  Tax: 13
+  Net: 185
+- Region: jp-west
+  ServiceName: Cloud Computing
+  ZoneName: monstera
+  Category: VirtualMachine
+  Menu: light.S2
+  ResourceDisplayName: gitlab
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 432
+  Allocated: 432
+  Running: 432
+  Stopped: 0
+  Amount: 1252
+  Tax: 100
+  Net: 1352
+- Region: jp-west
+  ServiceName: Cloud Computing
+  ZoneName: augusta
+  Category: VirtualMachine
+  Menu: light.S1
+  ResourceDisplayName: step02
+  StartDate: '2017-07-02'
+  EndDate: '2017-07-18'
+  Usage: 401.28277778625
+  Allocated: 401.31611061096
+  Running: 401.28277778625
+  Stopped: 0.033332824707031
+  Amount: 160
+  Tax: 12
+  Net: 172
+- Region: jp-west
+  ServiceName: Cloud Computing
+  ZoneName: monstera
+  Category: Internet Data Transfer
+  Menu: Internet Data Transfer [out]
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 0.34
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-west
+  ServiceName: Cloud Computing
+  ZoneName: monstera
+  Category: Internet Data Transfer
+  Menu: Internet Data Transfer [in]
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 0.61
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-west
+  ServiceName: Cloud Computing
+  ZoneName: augusta
+  Category: Internet Data Transfer
+  Menu: Internet Data Transfer [out]
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 0.37
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-west
+  ServiceName: Cloud Computing
+  ZoneName: augusta
+  Category: Internet Data Transfer
+  Menu: Internet Data Transfer [in]
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 1.36
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 0
+  Tax: 0
+  Net: 0
+- Region: jp-west
+  ServiceName: Cloud Computing
+  ZoneName: monstera
+  Category: Volume
+  Menu: Volume - Root Disk
+  ResourceDisplayName: ROOT-28856
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 6480
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 259
+  Tax: 20
+  Net: 279
+- Region: jp-west
+  ServiceName: Cloud Computing
+  ZoneName: augusta
+  Category: Volume
+  Menu: Volume - Root Disk
+  ResourceDisplayName: ROOT-38711
+  StartDate: '2017-07-02'
+  EndDate: '2017-07-18'
+  Usage: 2006.5806
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 80
+  Tax: 6
+  Net: 86
+- Region: jp-west
+  ServiceName: Cloud Computing
+  ZoneName: augusta
+  Category: Archived Data
+  Menu: Archive Storage - ISO Data Usage
+  ResourceDisplayName: Fedora 25
+  StartDate: '2017-07-02'
+  EndDate: '2017-07-04'
+  Usage: 19.893
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: 1
+  Tax: 0
+  Net: 1
+- Region: global
+  ServiceName: CDN
+  ZoneName: global
+  Category: CDN
+  Menu: Contents Cache - Network Traffic Usage
+  ResourceDisplayName: xxxxxxxxxxxxxx.cdn.jp.idcfcloud.com
+  StartDate: '2017-07-04'
+  EndDate: '2017-07-18'
+  Usage: 1
+  Allocated: '0.000000'
+  Running: 0
+  Stopped: 0
+  Amount: 9
+  Tax: 0
+  Net: 9
+- Region: global
+  ServiceName: DNS
+  ZoneName: global
+  Category: DNS
+  Menu: DNS Zone
+  ResourceDisplayName: example.jp
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-04'
+  Usage: 79.6163
+  Allocated: 79.6163
+  Running: 0
+  Stopped: 0
+  Amount: 50
+  Tax: 4
+  Net: 54
+- Region: global
+  ServiceName: DNS
+  ZoneName: global
+  Category: DNS
+  Menu: DNS Zone
+  ResourceDisplayName: example.com
+  StartDate: '2017-07-04'
+  EndDate: '2017-07-18'
+  Usage: 352.3222
+  Allocated: 352.3222
+  Running: 0
+  Stopped: 0
+  Amount: 50
+  Tax: 4
+  Net: 54
+- Region: global
+  ServiceName: Cloud Computing
+  ZoneName: global
+  Category: Others
+  Menu: Coupon
+  ResourceDisplayName: " "
+  StartDate: '2017-07-01'
+  EndDate: '2017-07-18'
+  Usage: 0
+  Allocated: 0
+  Running: 0
+  Stopped: 0
+  Amount: -2791
+  Tax: -215
+  Net: -3006
